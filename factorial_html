@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<title>Cool!!!!!!!!!!!</title>
+</head>
+<body>
+	<header style="height: 30px;background-color:#ffc107;">
+	
+	</header>
+	<div class="container">
+	<h2 style="background-color: #00bcd4">Factorial Number</h2>
+	<img src="images/arsenal.jpg" height="250px" width="250px">
+	<hr/>
+	<br/>
+	<br style="width: 50%"> 
+	<form action="fact" method="get">
+	<label style="font-size:18px;fontweight: bold;">Enter Num </label>
+	<input type="text" name="pnum" class="form-control">
+<br/>	
+<button type="submit" class="btn btn-success">submit</button>
+	</form>
+	</div>
+</body>
+</html>
